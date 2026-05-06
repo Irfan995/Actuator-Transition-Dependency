@@ -1,0 +1,9 @@
+dataset/
+.venv/
+__pycache__/
+*.py[cod]
+*.csv
+*.txt
+!requirements.txt
+*.json
+*.pth
