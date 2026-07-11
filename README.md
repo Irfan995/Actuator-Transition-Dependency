@@ -150,3 +150,19 @@ Example:
 ```text
 Kitchen Motion Sensor:1, Door Sensor:0
 ```
+## Citation
+If you use this work in your research, please cite:
+```
+@INPROCEEDINGS{irfan2026,
+  author={F. A. Irfan, R. Iqbal, and S. Olson},
+  booktitle={Proceedings of the 35th International Conference on Computer Communications and Networks (ICCCN)}, 
+  title={Actuator Transition Dependency Aware Deep Learning Approach for Actuator State Prediction}, 
+  year={2026},
+  volume={},
+  number={},
+  keywords={Context-aware learning, Graph modeling, IoT automation, LSTM, Temporal dependency, Time-series, Transformer, Sensor-actuator interaction},
+  }
+```
+
+## Acknowledgement
+This material is based upon work supported by the National Science Foundation under Award No. 2302060.
